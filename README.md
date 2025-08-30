@@ -1,73 +1,70 @@
-# Fuel-Consumption-Calculator
-Fuel Consumption Calculator is a free, easy-to-use online tool that helps drivers quickly estimate fuel usage and travel costs. Whether you're planning a road trip or tracking daily fuel expenses, our calculator provides fast and accurate results. Save money, plan smarter, and drive efficiently with our fuel cost calculator.
 # Kalkulator Spalania Paliwa 🚗⛽
 
-**Kalkulator Spalania Paliwa** is a free and easy-to-use online tool that helps drivers calculate their fuel consumption and trip costs. Whether you're planning a long journey or just tracking everyday fuel usage, this tool helps you save money and drive smarter.
+**Kalkulator Spalania Paliwa** to darmowe, łatwe w użyciu narzędzie online, które pomaga kierowcom szybko oszacować zużycie paliwa i koszty podróży. Niezależnie od tego, czy planujesz długą podróż, czy śledzisz codzienne wydatki na paliwo, nasz kalkulator zapewnia szybkie i dokładne wyniki. Oszczędzaj pieniądze, planuj mądrze i jeźdź efektywnie z naszym kalkulatorem kosztów paliwa.
 
-🔗 **Visit the live calculator:**  
+🔗 **Odwiedź kalkulator na żywo:**  
 👉 [https://kalkulatorspalaniapaliwa.pl](https://kalkulatorspalaniapaliwa.pl)
 
 ---
 
-## 🧮 Key Features
+## 🧮 Główne Funkcje
 
-- Simple, intuitive UI
-- Calculates fuel cost per trip
-- Supports both liters and gallons
-- Mobile-friendly and fast
-
----
-
-## 🌐 Website Preview
-
-![Kalkulator Spalania Paliwa Screenshot](screenshot.png)
+- Prosty, intuicyjny interfejs
+- Oblicza koszt paliwa na trasie
+- Obsługuje zarówno litry, jak i galony
+- Przyjazny dla urządzeń mobilnych i szybki
 
 ---
 
-## 🚀 How It Works
+## 🌐 Podgląd Strony
 
-Just enter:
-- Distance traveled (km or miles)
-- Amount of fuel used
-- Fuel price per liter/gallon
-
-And instantly get:
-- Fuel consumption per 100km (or MPG)
-- Total fuel cost
+![Kalkulator Spalania Paliwa Zrzut Ekranu](screenshot.png)
 
 ---
 
-## 📈 Use Case
+## 🚀 Jak To Działa
 
-Ideal for:
-- Daily commuters
-- Delivery drivers
-- Road trip planning
-- Fuel cost tracking
+Wystarczy wprowadzić:
+- Dystans (km lub mile)
+- Ilość zużytego paliwa
+- Cena paliwa za litr/galon
+
+I natychmiast otrzymasz:
+- Zużycie paliwa na 100 km (lub MPG)
+- Całkowity koszt paliwa
 
 ---
 
-## 📎 Backlink & SEO Note
+## 📈 Przykłady Zastosowania
 
-If you're a blogger or developer and want to share this tool, feel free to add a backlink to:  
+Idealne dla:
+- Codziennych dojeżdżających do pracy
+- Kierowców dostawczych
+- Planowania podróży
+- Śledzenia kosztów paliwa
+
+---
+
+## 📎 Link zwrotny & Wskazówka SEO
+
+Jeśli jesteś blogerem lub deweloperem i chcesz podzielić się tym narzędziem, dodaj link zwrotny do:  
 👉 **[https://kalkulatorspalaniapaliwa.pl](https://kalkulatorspalaniapaliwa.pl)**  
-Your support helps keep the tool free and updated!
+Twoje wsparcie pomaga utrzymać narzędzie darmowym i aktualizowanym!
 
 ---
 
-## 🛠️ Tech Stack (Optional)
+## 🛠️ Stos Technologiczny (Opcjonalnie)
 
 - HTML5 / CSS3
 - JavaScript
-- Responsive Web Design
+- Responsywny design
 
 ---
 
-## 📬 Contact
+## 📬 Kontakt
 
-For feedback or collaboration:  
-📧 your@email.com  
+Jeśli masz uwagi lub propozycje współpracy:  
+📧 kalkulatorsplaniapaliwa@gmail.com  
 🌐 [https://kalkulatorspalaniapaliwa.pl](https://kalkulatorspalaniapaliwa.pl)
 
 ---
-
