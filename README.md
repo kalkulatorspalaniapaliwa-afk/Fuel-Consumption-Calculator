@@ -3,7 +3,7 @@
 **Kalkulator Spalania Paliwa** to darmowe, łatwe w użyciu narzędzie online, które pomaga kierowcom szybko oszacować zużycie paliwa i koszty podróży. Niezależnie od tego, czy planujesz długą podróż, czy śledzisz codzienne wydatki na paliwo, nasz kalkulator zapewnia szybkie i dokładne wyniki. Oszczędzaj pieniądze, planuj mądrze i jeźdź efektywnie z naszym kalkulatorem kosztów paliwa.
 
 🔗 **Odwiedź kalkulator na żywo:**  
-👉 [https://kalkulatorspalaniapaliwa.pl](https://kalkulatorspalaniapaliwa.pl)
+👉 [https://kalkulatorspalania-paliwa.pl/](https://kalkulatorspalania-paliwa.pl/)
 
 ---
 
@@ -48,7 +48,7 @@ Idealne dla:
 ## 📎 Link zwrotny & Wskazówka SEO
 
 Jeśli jesteś blogerem lub deweloperem i chcesz podzielić się tym narzędziem, dodaj link zwrotny do:  
-👉 **[https://kalkulatorspalaniapaliwa.pl](https://kalkulatorspalaniapaliwa.pl)**  
+👉 **[https://kalkulatorspalania-paliwa.pl/](https://kalkulatorspalania-paliwa.pl/)**  
 Twoje wsparcie pomaga utrzymać narzędzie darmowym i aktualizowanym!
 
 ---
@@ -65,6 +65,6 @@ Twoje wsparcie pomaga utrzymać narzędzie darmowym i aktualizowanym!
 
 Jeśli masz uwagi lub propozycje współpracy:  
 📧 kalkulatorsplaniapaliwa@gmail.com  
-🌐 [https://kalkulatorspalaniapaliwa.pl](https://kalkulatorspalaniapaliwa.pl)
+🌐 [https://kalkulatorspalania-paliwa.pl/](https://kalkulatorspalania-paliwa.pl/)
 
 ---
